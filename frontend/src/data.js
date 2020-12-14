@@ -19,7 +19,7 @@ const data = {
             price: 100,
             brand: 'Adidas',
             rating: 4.0,
-            numReviews: 10,
+            numReviews: 14,
             description: 'High quality branded shirt'
         },
         {
@@ -29,7 +29,7 @@ const data = {
             image: '/images/p3.jpg',
             price: 220,
             brand: 'Lacoste',
-            rating: 4.8,
+            rating: 3,
             numReviews: 17,
             description: 'High quality branded shirt'
         },
@@ -40,8 +40,8 @@ const data = {
             image: '/images/p4.jpg',
             price: 78,
             brand: 'Nike',
-            rating: 4.5,
-            numReviews: 14,
+            rating: 3.5,
+            numReviews: 24,
             description: 'High quality branded shirt'
         },
         {
@@ -51,8 +51,8 @@ const data = {
             image: '/images/p5.jpg',
             price: 65,
             brand: 'Puma ',
-            rating: 4.5,
-            numReviews: 10,
+            rating: 5,
+            numReviews: 20,
             description: 'High quality branded shirt'
         },
         {
@@ -62,8 +62,8 @@ const data = {
             image: '/images/p6.jpg',
             price: 139,
             brand: 'Adidas',
-            rating: 4.5,
-            numReviews: 15,
+            rating: 4.8,
+            numReviews: 19,
             description: 'High quality branded shirt'
         },
     ]
